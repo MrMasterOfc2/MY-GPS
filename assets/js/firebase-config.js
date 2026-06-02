@@ -1,9 +1,9 @@
 window.GALEWELA_FIREBASE_CONFIG = {
-  apiKey: "AIzaSyA1n8wRePqEdAiU3_VfqSFvYJ_k4Gfcp2U",
-    authDomain: "irosh-entertainment.firebaseapp.com",
-    databaseURL: "https://irosh-entertainment-default-rtdb.asia-southeast1.firebasedatabase.app",
-    projectId: "irosh-entertainment",
-    storageBucket: "irosh-entertainment.firebasestorage.app",
-    messagingSenderId: "308550605993",
-    appId: "1:308550605993:web:a732a3741542b883e61db8"
+    apiKey: "AIzaSyAOp8iY1a0yctjsIyO8Ee6iT8pugYUANtQ",
+    authDomain: "testing-f1254.firebaseapp.com",
+    projectId: "testing-f1254",
+    databaseURL: "https://testing-f1254-default-rtdb.firebaseio.com/",
+    storageBucket: "testing-f1254.firebasestorage.app",
+    messagingSenderId: "559013771825",
+    appId: "1:559013771825:web:1ced0c7634b7260ac67310"
 };
